@@ -1,2 +1,2 @@
 # haiti-address-php
-The php lib for gettings all info about Haiti localities.
+A php lib for gettings all infos about Haiti localities.
