@@ -24,16 +24,28 @@ class Address extends Helper
         }
     }
 
+
+    public function getAllCities($toArray = false)
+    {
+        try {
+            $citiesInfo = $this->getFileContent("cities.json", true);
+            $onlyCities = [];
+            foreach ($citiesInfo as $cityInfo) {
+                $onlyCities[] = $cityInfo['municipalities'];
+            }
+            return $onlyCities;
+        } catch (Exception $e) {
+            throw new Exception($e->getMessage());
+        }
+    }
+
     public function getAllDistrictsByDepartmentCode($departmentCode = 'AR')
     {
         try {
-            $res = $this->removeEmphasis('Gonaïves');
-            var_dump($res);
-            exit;
             $allDistricts = $this->getAllDistricts(true);
-            foreach ($allDistricts as $districs) {
-                if ($districs['department_code'] == $departmentCode) {
-                    return $districs;
+            foreach ($allDistricts as $districts) {
+                if ($districts['department_code'] == $departmentCode) {
+                    return $districts;
                 }
             }
             return [];

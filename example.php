@@ -14,6 +14,10 @@ $departments = $address->getAllStates();
 $districts = $address->getAllDistricts();
 //print_r($districts);
 
-//get All districts
+//get All districts by department
 $districts_departement = $address->getAllDistrictsByDepartmentCode('AR');
 //print_r($districts_departement);
+
+//get All cities
+$cities = $address->getAllCities();
+print_r($cities);
