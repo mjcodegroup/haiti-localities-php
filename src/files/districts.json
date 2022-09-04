@@ -1,0 +1,94 @@
+[
+    {
+        "department_code": "AR",
+        "districts": [
+            { "name": "Dessalines", "aliases": "dessalines" },
+            { "name": "Gonaïves", "aliases": "gonaives" },
+            { "name": "Gros Morne", "aliases": "gros_morne" },
+            { "name": "Marmelade", "aliases": "marmelade" },
+            { "name": "Saint Marc", "aliases": "saint_marc" }
+        ]
+    },
+    {
+        "department_code": "CE",
+        "districts": [
+            { "name": "Cerca la Source", "aliases": "cerca_la_source" },
+            { "name": "Hinche", "aliases": "hinche" },
+            { "name": "Lascahobas", "aliases": "lascahobas"},
+            { "name": "Mirebalais", "aliases": "mirebalais" }
+        ]
+    },
+    {
+        "department_code": "GA",
+        "districts": [
+            { "name": "Anse d'Hainault", "aliases": "anse_d_hainault" },
+            { "name": "Corail", "aliases": "corail" },
+            { "name": "Jérémie", "aliases": "jeremie" }
+        ]
+    },
+    {
+        "department_code": "NI",
+        "districts": [
+            { "name": "Anse à Veau", "aliases": "anse_a_veau" },
+            { "name": "Baradères", "aliases": "baraderes" },
+            { "name": "Miragoâne", "aliases": "miragoane" }
+        ]
+    },
+    {
+        "department_code": "ND",
+        "districts": [
+            { "name": "Acul du Nord", "aliases": "acul_du_nord" },
+            { "name": "Borgne", "aliases": "borgne" },
+            { "name": "Cap Haïtien", "aliases": "cap_haitien" },
+            { "name": "Grande Rivière du Nord", "aliases": "grande_riviere_du_nord" },
+            { "name": "Limbé", "aliases": "limbe" },
+            { "name": "Plaisance", "aliases": "plaisance" },
+            { "name": "Saint Raphaël", "aliases": "saint_raphael" }
+        ]
+    },
+    {
+        "department_code": "NE",
+        "districts": [
+            { "name": "Fort Liberté", "aliases": "fort_liberte" },
+            { "name": "Ouanaminthe", "aliases": "ouanaminthe" },
+            { "name": "Trou du Nord", "aliases": "trou_du_nord" },
+            { "name": "Vallières", "aliases": "valieres" }
+        ]
+    },
+    {
+        "department_code": "NO",
+        "districts": [
+            { "name": "Môle Saint Nicolas", "aliases": "mole_saint_nicolas" },
+            { "name": "Port de Paix", "aliases": "port_de_paix" },
+            { "name": "Saint Louis du Nord", "aliases": "saint_louis_du_nord" }
+        ]
+    },
+    {
+        "department_code": "OU",
+        "districts": [
+            { "name": "Arcahaie", "aliases": "arcahaie" },
+            { "name": "Croix des Bouquets", "aliases": "croix_des_bouquets" },
+            { "name": "Gonâve", "aliases": "gonave"},
+            { "name": "Léogâne", "aliases": "leogane" },
+            { "name": "Port au Prince", "aliases": "port_au_prince" }
+        ]
+    },
+    {
+        "department_code": "SE",
+        "districts": [
+            { "name": "Bainet", "aliases": "bainet" },
+            { "name": "Belle Anse", "aliases": "belle_anse" },
+            { "name": "Jacmel", "aliases": "jacmel" }
+        ]
+    },
+    {
+        "department_code": "SD",
+        "districts": [
+            { "name": "Aquin", "aliases": "aquin" },
+            { "name": "Les Cayes", "aliases": "les_cayes" },
+            { "name": "Chardonnières", "aliases": "chardonnieres" },
+            { "name": "Côteaux", "aliases": "coteaux" },
+            { "name": "Port Salut", "aliases": "port_salut" }
+        ]
+    }
+]

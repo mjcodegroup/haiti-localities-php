@@ -5,5 +5,15 @@ require_once './vendor/autoload.php';
 use \mjcodegroup\HaitiAddressPhp\classes\Address;
 
 $address = new Address();
-$states = $address->getAllStates();
-print_r($states[0]['capital']);
+
+//get All departments
+$departments = $address->getAllStates();
+//print_r($departments);
+
+//get All districts
+$districts = $address->getAllDistricts();
+//print_r($districts);
+
+//get All districts
+$districts_departement = $address->getAllDistrictsByDepartmentCode('AR');
+//print_r($districts_departement);
