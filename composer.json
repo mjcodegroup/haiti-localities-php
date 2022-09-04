@@ -4,13 +4,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Jodfedlet\\HaitiAddressPhp\\": "src/"
+            "mjcodegroup\\HaitiAddressPhp\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "mjcodegroup"
+            "name": "jodfedlet",
+            "email": "fedletpierre15@gmail.com"
         }
-    ],
-    "require": {}
+    ]
 }

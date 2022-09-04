@@ -1,0 +1,62 @@
+[
+  {
+    "code": "AR",
+    "name": "Artibonite",
+    "capital": "Gonaïves",
+    "subdivision": null
+  },
+  {
+    "code": "CE",
+    "name": "Centre",
+    "capital": "Hinche",
+    "subdivision": null
+  },
+  {
+    "code": "GA",
+    "name": "Grande-Anse",
+    "capital": "Jérémie",
+    "subdivision": null
+  },
+  {
+    "code": "NI",
+    "name": "Nippes",
+    "capital": "Miragoâne",
+    "subdivision": null
+  },
+  {
+    "code": "ND",
+    "name": "Nord",
+    "capital": "Cap-Haïtien",
+    "subdivision": null
+  },
+  {
+    "code": "NE",
+    "name": "Nord-Est",
+    "capital": "Fort-Liberté",
+    "subdivision": null
+  },
+  {
+    "code": "NO",
+    "name": "Nord-Ouest",
+    "capital": "Port-de-Paix",
+    "subdivision": null
+  },
+  {
+    "code": "OU",
+    "name": "Ouest",
+    "capital": "Port-au-Prince",
+    "subdivision": null
+  },
+  {
+    "code": "SD",
+    "name": "Sud",
+    "capital": "Cayes",
+    "subdivision": null
+  },
+  {
+    "code": "SE",
+    "name": "Sud-Est",
+    "capital": "Jacmel",
+    "subdivision": null
+  }
+]
