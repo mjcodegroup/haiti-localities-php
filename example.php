@@ -6,4 +6,4 @@ use \mjcodegroup\HaitiAddressPhp\classes\Address;
 
 $address = new Address();
 $states = $address->getAllStates();
-print_r($states);
+print_r($states[0]['capital']);

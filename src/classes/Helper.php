@@ -7,6 +7,6 @@ class Helper
     public function getFileContent($file)
     {
         $contents = file_get_contents(dirname(__DIR__) . "/files/" . $file);
-        return json_decode($contents);
+        return json_decode($contents, true);
     }
 }
