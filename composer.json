@@ -1,5 +1,5 @@
 {
-    "name": "jodfedlet/haiti-address-php",
+    "name": "mjcodegroup/haiti-address-php",
     "description": "A mini lib fo getting all addresses info about Haiti.",
     "license": "MIT",
     "autoload": {
@@ -9,8 +9,8 @@
     },
     "authors": [
         {
-            "name": "jodfedlet",
-            "email": "fedletpierre15@gmail.com"
+            "name": "mjcodegroup",
+            "email": "mjcodegroup@gmail.com"
         }
     ]
 }
