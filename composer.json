@@ -1,5 +1,5 @@
 {
-    "name": "mjcodegroup/haiti-address-php",
+    "name": "mjcodegroup/haiti-localities",
     "description": "A mini lib fo getting all addresses info about Haiti.",
     "license": "MIT",
     "autoload": {
